@@ -106,7 +106,7 @@ namespace Assignment4
             }
         }
 
-        //btnClear OnClick
+        // btnClear OnClick
         protected void btnClear_Click(object sender, EventArgs e)
         {
             txtNumerator.Text = "";
