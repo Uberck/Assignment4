@@ -9,6 +9,7 @@ namespace Assignment4
 {
     public partial class Default : System.Web.UI.Page
     {
+        // Private methods
         // Function to take input from two fields and add them
         private int AddNumbers(int fieldOne, int fieldTwo)
         {
